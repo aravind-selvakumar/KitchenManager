@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/backend/KitchenManager.API/bin/Debug/net8.0
+/backend/KitchenManager.API/obj
+/backend/server.err
+/backend/server.log
+/frontend/node_modules
+/.vs/KitchenManager/CopilotIndices/0.2.1657.32929
+/.vs/KitchenManager/config
+/.vs/KitchenManager/v17
