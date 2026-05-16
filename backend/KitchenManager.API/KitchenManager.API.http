@@ -1,0 +1,6 @@
+@KitchenManager.API_HostAddress = http://localhost:5234
+
+GET {{KitchenManager.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
